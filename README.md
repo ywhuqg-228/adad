@@ -14,7 +14,7 @@
 - 🐍 Пишу на **Python**, использую **Aiogram 3**, **python-telegram-bot**
 - 🗄️ Работаю с базами данных: **PostgreSQL**, **SQLite**, **Redis**
 - 🔌 Интегрирую ботов с **внешними API**, платежами, CRM и админ-панелями
-- 🌱 Сейчас изучаю: **[например, FastAPI, Docker, вебхуки]**
+- 🌱 Сейчас изучаю: **[С, Pyton, Swift]**
 - 💬 Спросите меня о: **создании ботов, асинхронном Python, деплое**
 
 ---
@@ -39,9 +39,9 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| 🤖 **[Название бота 1]** | [Краткое описание: например, бот для заказа услуг с оплатой] | Python, Aiogram, PostgreSQL |
-| 📊 **[Название бота 2]** | [Например, бот-агрегатор новостей с рассылкой] | Python, API, Redis |
-| 🛒 **[Название бота 3]** | [Например, магазин в Telegram с корзиной и админкой] | Aiogram, SQLite, Docker |
+| 🤖 **[Название бота 1]** | ShopBot | Python, Aiogram, PostgreSQL |
+| 📊 **[Название бота 2]** | Bookly | Python, API, Redis |
+| 🛒 **[Название бота 3]** | StatPulse | Aiogram, SQLite, Docker |
 
 > 💡 *Закрепите лучшие репозитории через «Customize your pins» на главной странице профиля.*
 
@@ -59,7 +59,7 @@
 ### 📫 Связаться со мной
 
 <p align="left">
-  <a href="https://t.me/[ВАШ_ТЕЛЕГРАМ]">
+  <a href="https://t.me/@whyyhgr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:[ВАШ_EMAIL]">
