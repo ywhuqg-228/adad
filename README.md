@@ -1,5 +1,5 @@
 # adad
-**<h1 align="center">Привет 👋, я [egorka]</h1>
+**<h1 align="center">Привет 👋, я egorka</h1>
 <h3 align="center">Разработчик Telegram-ботов 🤖 | Python • Aiogram • API</h3>
 
 <p align="center">
